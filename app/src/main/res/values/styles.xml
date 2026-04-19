@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="AppTheme" parent="android:Theme.Black.NoTitleBar">
+    <style name="AppTheme" parent="android:Theme.NoTitleBar">
         <item name="android:windowBackground">@color/bg_dark</item>
-        <item name="android:windowNoTitle">true</item>
     </style>
 </resources>
